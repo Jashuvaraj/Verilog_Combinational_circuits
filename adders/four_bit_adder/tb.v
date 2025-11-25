@@ -1,3 +1,4 @@
+`include "dut.v"
 module four_bit_tb;
 reg [3:0]a,b;
 reg  c0;
