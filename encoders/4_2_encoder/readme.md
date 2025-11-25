@@ -3,7 +3,7 @@
 This module implements a 4-to-2 binary encoder using combinational logic. Among the four input lines (`d0–d3`), only one should be active at a time, and the encoder outputs the corresponding 2-bit binary code.
 
 ## Files Included:
-- `Four_two_encoder.v` — RTL implementation of encoder logic and Testbench for functional verification
+- `dut_tb.v` — RTL implementation of encoder logic and Testbench for functional verification
 
 ---
 
