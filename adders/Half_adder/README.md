@@ -3,7 +3,7 @@
 This module implements a Half Adder using Verilog HDL.
 
 ### Files included:
-- `half_adder.v` — RTL design
+- `half_adder_dut.v` — RTL design
 - `half_adder_tb.v` — Testbench
 
 ### Function:
