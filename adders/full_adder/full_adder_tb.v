@@ -1,3 +1,4 @@
+`include "full_adder_dut.v"
 module Full_adder_tb;
 reg a,b,c;
 wire s,cin;
@@ -13,3 +14,4 @@ initial begin
 #10 a=1;b=1;c=1;
 end 
 endmodule
+
