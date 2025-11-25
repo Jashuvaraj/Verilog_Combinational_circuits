@@ -1,4 +1,4 @@
-`include "Half_adder_dut.v"
+`include "half_adder_dut.v"
 
 module tb;
         reg a,b;
@@ -14,3 +14,4 @@ module tb;
             #10 $finish;            
         end
 endmodule
+
